@@ -260,7 +260,7 @@
         }
       ],
       "poster_path": "https://image.tmdb.org/t/p/original/gPbM0MK8CP8A174rmUwGsADNYKD.jpg",
-      "trailer": "https://www.youtube.com/watch?v=v0d0id78XdE",
+      "trailer": "https://www.youtube.com/embed/v0d0id78XdE",
       "premiere": "22-jul-2023",
       "active": true
     },
@@ -291,7 +291,7 @@
         }
       ],
       "poster_path": "https://image.tmdb.org/t/p/original//8Gxv8gSFCU0XGDykEGv7zR1n2ua.jpg",
-      "trailer": "https://www.youtube.com/watch?v=gMPEbJQun68",
+      "trailer": "https://www.youtube.com/embed/gMPEbJQun68",
       "premiere": "19-jul-2023",
       "active": true
     },
@@ -322,7 +322,7 @@
         }
       ],
       "poster_path": "https://image.tmdb.org/t/p/original/rktDFPbfHfUbArZ6OOOKsXcv0Bm.jpg",
-      "trailer": "https://www.youtube.com/watch?v=LmC5pxr9JZY",
+      "trailer": "https://www.youtube.com/embed/LmC5pxr9JZY",
       "premiere": "13-jun-2023",
       "active": true
     },
@@ -353,7 +353,7 @@
         }
       ],
       "poster_path": "https://image.tmdb.org/t/p/original/NNxYkU70HPurnNCSiCjYAmacwm.jpg",
-      "trailer": "https://www.youtube.com/watch?v=3kM40dT0WdY",
+      "trailer": "https://www.youtube.com/embed/3kM40dT0WdY",
       "premiere": "08-jul-2023",
       "active": true
     },
@@ -384,7 +384,7 @@
         }
       ],
       "poster_path": "https://image.tmdb.org/t/p/original/Af4bXE63pVsb2FtbW8uYIyPBadD.jpg",
-      "trailer": "https://www.youtube.com/watch?v=LgaoAKUWa7E",
+      "trailer": "https://www.youtube.com/embed/LgaoAKUWa7E",
       "premiere": "28-jun-2023",
       "active": true
     }
@@ -402,11 +402,6 @@
       "daymonth": "20-07",
       "active": true,
       "seats": [
-        {
-          "id": 0,
-          "number": "0",
-          "isReserved": false
-        },
         {
           "id": 1,
           "number": "1",
@@ -651,8 +646,12 @@
           "id": 49,
           "number": "49",
           "isReserved": false
+        },
+        {
+          "id": 50,
+          "number": "50",
+          "isReserved": false
         }
-
       ]
     },
     {
@@ -660,6 +659,534 @@
       "cinemasId": 1,
       "roomsId": 3,
       "moviesId": 872585,
+      "year": "2023",
+      "month": "07",
+      "day": "20",
+      "time": "15:30",
+      "daymonth": "20-07",
+      "active": true,
+      "seats": [
+        {
+          "id": 1,
+          "number": "1",
+          "isReserved": true
+        },
+        {
+          "id": 2,
+          "number": "2",
+          "isReserved": false
+        },
+        {
+          "id": 3,
+          "number": "3",
+          "isReserved": false
+        },
+        {
+          "id": 4,
+          "number": "4",
+          "isReserved": false
+        },
+        {
+          "id": 5,
+          "number": "5",
+          "isReserved": false
+        },
+        {
+          "id": 6,
+          "number": "6",
+          "isReserved": false
+        },
+        {
+          "id": 7,
+          "number": "7",
+          "isReserved": false
+        },
+        {
+          "id": 8,
+          "number": "8",
+          "isReserved": false
+        },
+        {
+          "id": 9,
+          "number": "9",
+          "isReserved": false
+        },
+        {
+          "id": 10,
+          "number": "10",
+          "isReserved": false
+        },
+        {
+          "id": 11,
+          "number": "11",
+          "isReserved": false
+        },
+        {
+          "id": 12,
+          "number": "12",
+          "isReserved": false
+        },
+        {
+          "id": 13,
+          "number": "13",
+          "isReserved": false
+        },
+        {
+          "id": 14,
+          "number": "14",
+          "isReserved": false
+        },
+        {
+          "id": 15,
+          "number": "15",
+          "isReserved": false
+        },
+        {
+          "id": 16,
+          "number": "16",
+          "isReserved": false
+        },
+        {
+          "id": 17,
+          "number": "17",
+          "isReserved": false
+        },
+        {
+          "id": 18,
+          "number": "18",
+          "isReserved": false
+        },
+        {
+          "id": 19,
+          "number": "19",
+          "isReserved": false
+        },
+        {
+          "id": 20,
+          "number": "20",
+          "isReserved": false
+        },
+        {
+          "id": 21,
+          "number": "21",
+          "isReserved": false
+        },
+        {
+          "id": 22,
+          "number": "22",
+          "isReserved": false
+        },
+        {
+          "id": 23,
+          "number": "23",
+          "isReserved": false
+        },
+        {
+          "id": 24,
+          "number": "24",
+          "isReserved": false
+        },
+        {
+          "id": 25,
+          "number": "25",
+          "isReserved": false
+        },
+        {
+          "id": 26,
+          "number": "26",
+          "isReserved": false
+        },
+        {
+          "id": 27,
+          "number": "27",
+          "isReserved": false
+        },
+        {
+          "id": 28,
+          "number": "28",
+          "isReserved": false
+        },
+        {
+          "id": 29,
+          "number": "29",
+          "isReserved": false
+        },
+        {
+          "id": 30,
+          "number": "30",
+          "isReserved": false
+        },
+        {
+          "id": 31,
+          "number": "31",
+          "isReserved": false
+        },
+        {
+          "id": 32,
+          "number": "32",
+          "isReserved": false
+        },
+        {
+          "id": 33,
+          "number": "33",
+          "isReserved": false
+        },
+        {
+          "id": 34,
+          "number": "34",
+          "isReserved": false
+        },
+        {
+          "id": 35,
+          "number": "35",
+          "isReserved": false
+        },
+        {
+          "id": 36,
+          "number": "36",
+          "isReserved": false
+        },
+        {
+          "id": 37,
+          "number": "37",
+          "isReserved": false
+        },
+        {
+          "id": 38,
+          "number": "38",
+          "isReserved": false
+        },
+        {
+          "id": 39,
+          "number": "39",
+          "isReserved": false
+        },
+        {
+          "id": 40,
+          "number": "40",
+          "isReserved": false
+        },
+        {
+          "id": 41,
+          "number": "41",
+          "isReserved": false
+        },
+        {
+          "id": 42,
+          "number": "42",
+          "isReserved": false
+        },
+        {
+          "id": 43,
+          "number": "43",
+          "isReserved": false
+        },
+        {
+          "id": 44,
+          "number": "44",
+          "isReserved": false
+        },
+        {
+          "id": 45,
+          "number": "45",
+          "isReserved": false
+        },
+        {
+          "id": 46,
+          "number": "46",
+          "isReserved": false
+        },
+        {
+          "id": 47,
+          "number": "47",
+          "isReserved": false
+        },
+        {
+          "id": 48,
+          "number": "48",
+          "isReserved": false
+        },
+        {
+          "id": 49,
+          "number": "49",
+          "isReserved": false
+        },
+        {
+          "id": 50,
+          "number": "50",
+          "isReserved": false
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "cinemasId": 2,
+      "roomsId": 1,
+      "moviesId": 667538,
+      "year": "2023",
+      "month": "07",
+      "day": "20",
+      "time": "13:00",
+      "daymonth": "20-07",
+      "active": true,
+      "seats": [
+        {
+          "id": 1,
+          "number": "1",
+          "isReserved": false
+        },
+        {
+          "id": 2,
+          "number": "2",
+          "isReserved": false
+        },
+        {
+          "id": 3,
+          "number": "3",
+          "isReserved": false
+        },
+        {
+          "id": 4,
+          "number": "4",
+          "isReserved": false
+        },
+        {
+          "id": 5,
+          "number": "5",
+          "isReserved": false
+        },
+        {
+          "id": 6,
+          "number": "6",
+          "isReserved": false
+        },
+        {
+          "id": 7,
+          "number": "7",
+          "isReserved": false
+        },
+        {
+          "id": 8,
+          "number": "8",
+          "isReserved": false
+        },
+        {
+          "id": 9,
+          "number": "9",
+          "isReserved": false
+        },
+        {
+          "id": 10,
+          "number": "10",
+          "isReserved": false
+        },
+        {
+          "id": 11,
+          "number": "11",
+          "isReserved": false
+        },
+        {
+          "id": 12,
+          "number": "12",
+          "isReserved": false
+        },
+        {
+          "id": 13,
+          "number": "13",
+          "isReserved": false
+        },
+        {
+          "id": 14,
+          "number": "14",
+          "isReserved": false
+        },
+        {
+          "id": 15,
+          "number": "15",
+          "isReserved": false
+        },
+        {
+          "id": 16,
+          "number": "16",
+          "isReserved": false
+        },
+        {
+          "id": 17,
+          "number": "17",
+          "isReserved": false
+        },
+        {
+          "id": 18,
+          "number": "18",
+          "isReserved": false
+        },
+        {
+          "id": 19,
+          "number": "19",
+          "isReserved": false
+        },
+        {
+          "id": 20,
+          "number": "20",
+          "isReserved": false
+        },
+        {
+          "id": 21,
+          "number": "21",
+          "isReserved": false
+        },
+        {
+          "id": 22,
+          "number": "22",
+          "isReserved": false
+        },
+        {
+          "id": 23,
+          "number": "23",
+          "isReserved": false
+        },
+        {
+          "id": 24,
+          "number": "24",
+          "isReserved": false
+        },
+        {
+          "id": 25,
+          "number": "25",
+          "isReserved": false
+        },
+        {
+          "id": 26,
+          "number": "26",
+          "isReserved": false
+        },
+        {
+          "id": 27,
+          "number": "27",
+          "isReserved": false
+        },
+        {
+          "id": 28,
+          "number": "28",
+          "isReserved": false
+        },
+        {
+          "id": 29,
+          "number": "29",
+          "isReserved": false
+        },
+        {
+          "id": 30,
+          "number": "30",
+          "isReserved": false
+        },
+        {
+          "id": 31,
+          "number": "31",
+          "isReserved": false
+        },
+        {
+          "id": 32,
+          "number": "32",
+          "isReserved": false
+        },
+        {
+          "id": 33,
+          "number": "33",
+          "isReserved": false
+        },
+        {
+          "id": 34,
+          "number": "34",
+          "isReserved": false
+        },
+        {
+          "id": 35,
+          "number": "35",
+          "isReserved": false
+        },
+        {
+          "id": 36,
+          "number": "36",
+          "isReserved": false
+        },
+        {
+          "id": 37,
+          "number": "37",
+          "isReserved": false
+        },
+        {
+          "id": 38,
+          "number": "38",
+          "isReserved": false
+        },
+        {
+          "id": 39,
+          "number": "39",
+          "isReserved": false
+        },
+        {
+          "id": 40,
+          "number": "40",
+          "isReserved": false
+        },
+        {
+          "id": 41,
+          "number": "41",
+          "isReserved": false
+        },
+        {
+          "id": 42,
+          "number": "42",
+          "isReserved": false
+        },
+        {
+          "id": 43,
+          "number": "43",
+          "isReserved": false
+        },
+        {
+          "id": 44,
+          "number": "44",
+          "isReserved": false
+        },
+        {
+          "id": 45,
+          "number": "45",
+          "isReserved": false
+        },
+        {
+          "id": 46,
+          "number": "46",
+          "isReserved": false
+        },
+        {
+          "id": 47,
+          "number": "47",
+          "isReserved": false
+        },
+        {
+          "id": 48,
+          "number": "48",
+          "isReserved": false
+        },
+        {
+          "id": 49,
+          "number": "49",
+          "isReserved": false
+        },
+        {
+          "id": 50,
+          "number": "50",
+          "isReserved": false
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "cinemasId": 2,
+      "roomsId": 1,
+      "moviesId": 667538,
       "year": "2023",
       "month": "07",
       "day": "20",
@@ -917,537 +1444,6 @@
           "number": "50",
           "isReserved": false
         }
-
-      ]
-    },
-    {
-      "id": 3,
-      "cinemasId": 2,
-      "roomsId": 1,
-      "moviesId": 667538,
-      "year": "2023",
-      "month": "07",
-      "day": "20",
-      "time": "13:00",
-      "daymonth": "20-07",
-      "active": true,
-      "seats": [
-        {
-          "id": 0,
-          "number": "0",
-          "isReserved": false
-        },
-        {
-          "id": 1,
-          "number": "1",
-          "isReserved": false
-        },
-        {
-          "id": 2,
-          "number": "2",
-          "isReserved": false
-        },
-        {
-          "id": 3,
-          "number": "3",
-          "isReserved": false
-        },
-        {
-          "id": 4,
-          "number": "4",
-          "isReserved": false
-        },
-        {
-          "id": 5,
-          "number": "5",
-          "isReserved": false
-        },
-        {
-          "id": 6,
-          "number": "6",
-          "isReserved": false
-        },
-        {
-          "id": 7,
-          "number": "7",
-          "isReserved": false
-        },
-        {
-          "id": 8,
-          "number": "8",
-          "isReserved": false
-        },
-        {
-          "id": 9,
-          "number": "9",
-          "isReserved": false
-        },
-        {
-          "id": 10,
-          "number": "10",
-          "isReserved": false
-        },
-        {
-          "id": 11,
-          "number": "11",
-          "isReserved": false
-        },
-        {
-          "id": 12,
-          "number": "12",
-          "isReserved": false
-        },
-        {
-          "id": 13,
-          "number": "13",
-          "isReserved": false
-        },
-        {
-          "id": 14,
-          "number": "14",
-          "isReserved": false
-        },
-        {
-          "id": 15,
-          "number": "15",
-          "isReserved": false
-        },
-        {
-          "id": 16,
-          "number": "16",
-          "isReserved": false
-        },
-        {
-          "id": 17,
-          "number": "17",
-          "isReserved": false
-        },
-        {
-          "id": 18,
-          "number": "18",
-          "isReserved": false
-        },
-        {
-          "id": 19,
-          "number": "19",
-          "isReserved": false
-        },
-        {
-          "id": 20,
-          "number": "20",
-          "isReserved": false
-        },
-        {
-          "id": 21,
-          "number": "21",
-          "isReserved": false
-        },
-        {
-          "id": 22,
-          "number": "22",
-          "isReserved": false
-        },
-        {
-          "id": 23,
-          "number": "23",
-          "isReserved": false
-        },
-        {
-          "id": 24,
-          "number": "24",
-          "isReserved": false
-        },
-        {
-          "id": 25,
-          "number": "25",
-          "isReserved": false
-        },
-        {
-          "id": 26,
-          "number": "26",
-          "isReserved": false
-        },
-        {
-          "id": 27,
-          "number": "27",
-          "isReserved": false
-        },
-        {
-          "id": 28,
-          "number": "28",
-          "isReserved": false
-        },
-        {
-          "id": 29,
-          "number": "29",
-          "isReserved": false
-        },
-        {
-          "id": 30,
-          "number": "30",
-          "isReserved": false
-        },
-        {
-          "id": 31,
-          "number": "31",
-          "isReserved": false
-        },
-        {
-          "id": 32,
-          "number": "32",
-          "isReserved": false
-        },
-        {
-          "id": 33,
-          "number": "33",
-          "isReserved": false
-        },
-        {
-          "id": 34,
-          "number": "34",
-          "isReserved": false
-        },
-        {
-          "id": 35,
-          "number": "35",
-          "isReserved": false
-        },
-        {
-          "id": 36,
-          "number": "36",
-          "isReserved": false
-        },
-        {
-          "id": 37,
-          "number": "37",
-          "isReserved": false
-        },
-        {
-          "id": 38,
-          "number": "38",
-          "isReserved": false
-        },
-        {
-          "id": 39,
-          "number": "39",
-          "isReserved": false
-        },
-        {
-          "id": 40,
-          "number": "40",
-          "isReserved": false
-        },
-        {
-          "id": 41,
-          "number": "41",
-          "isReserved": false
-        },
-        {
-          "id": 42,
-          "number": "42",
-          "isReserved": false
-        },
-        {
-          "id": 43,
-          "number": "43",
-          "isReserved": false
-        },
-        {
-          "id": 44,
-          "number": "44",
-          "isReserved": false
-        },
-        {
-          "id": 45,
-          "number": "45",
-          "isReserved": false
-        },
-        {
-          "id": 46,
-          "number": "46",
-          "isReserved": false
-        },
-        {
-          "id": 47,
-          "number": "47",
-          "isReserved": false
-        },
-        {
-          "id": 48,
-          "number": "48",
-          "isReserved": false
-        },
-        {
-          "id": 49,
-          "number": "49",
-          "isReserved": false
-        }
-
-      ]
-    },
-    {
-      "id": 4,
-      "cinemasId": 2,
-      "roomsId": 1,
-      "moviesId": 667538,
-      "year": "2023",
-      "month": "07",
-      "day": "20",
-      "time": "15:30",
-      "daymonth": "20-07",
-      "active": true,
-      "seats": [
-        {
-          "id": 0,
-          "number": "0",
-          "isReserved": false
-        },
-        {
-          "id": 1,
-          "number": "1",
-          "isReserved": false
-        },
-        {
-          "id": 2,
-          "number": "2",
-          "isReserved": false
-        },
-        {
-          "id": 3,
-          "number": "3",
-          "isReserved": false
-        },
-        {
-          "id": 4,
-          "number": "4",
-          "isReserved": false
-        },
-        {
-          "id": 5,
-          "number": "5",
-          "isReserved": false
-        },
-        {
-          "id": 6,
-          "number": "6",
-          "isReserved": false
-        },
-        {
-          "id": 7,
-          "number": "7",
-          "isReserved": false
-        },
-        {
-          "id": 8,
-          "number": "8",
-          "isReserved": false
-        },
-        {
-          "id": 9,
-          "number": "9",
-          "isReserved": false
-        },
-        {
-          "id": 10,
-          "number": "10",
-          "isReserved": false
-        },
-        {
-          "id": 11,
-          "number": "11",
-          "isReserved": false
-        },
-        {
-          "id": 12,
-          "number": "12",
-          "isReserved": false
-        },
-        {
-          "id": 13,
-          "number": "13",
-          "isReserved": false
-        },
-        {
-          "id": 14,
-          "number": "14",
-          "isReserved": false
-        },
-        {
-          "id": 15,
-          "number": "15",
-          "isReserved": false
-        },
-        {
-          "id": 16,
-          "number": "16",
-          "isReserved": false
-        },
-        {
-          "id": 17,
-          "number": "17",
-          "isReserved": false
-        },
-        {
-          "id": 18,
-          "number": "18",
-          "isReserved": false
-        },
-        {
-          "id": 19,
-          "number": "19",
-          "isReserved": false
-        },
-        {
-          "id": 20,
-          "number": "20",
-          "isReserved": false
-        },
-        {
-          "id": 21,
-          "number": "21",
-          "isReserved": false
-        },
-        {
-          "id": 22,
-          "number": "22",
-          "isReserved": false
-        },
-        {
-          "id": 23,
-          "number": "23",
-          "isReserved": false
-        },
-        {
-          "id": 24,
-          "number": "24",
-          "isReserved": false
-        },
-        {
-          "id": 25,
-          "number": "25",
-          "isReserved": false
-        },
-        {
-          "id": 26,
-          "number": "26",
-          "isReserved": false
-        },
-        {
-          "id": 27,
-          "number": "27",
-          "isReserved": false
-        },
-        {
-          "id": 28,
-          "number": "28",
-          "isReserved": false
-        },
-        {
-          "id": 29,
-          "number": "29",
-          "isReserved": false
-        },
-        {
-          "id": 30,
-          "number": "30",
-          "isReserved": false
-        },
-        {
-          "id": 31,
-          "number": "31",
-          "isReserved": false
-        },
-        {
-          "id": 32,
-          "number": "32",
-          "isReserved": false
-        },
-        {
-          "id": 33,
-          "number": "33",
-          "isReserved": false
-        },
-        {
-          "id": 34,
-          "number": "34",
-          "isReserved": false
-        },
-        {
-          "id": 35,
-          "number": "35",
-          "isReserved": false
-        },
-        {
-          "id": 36,
-          "number": "36",
-          "isReserved": false
-        },
-        {
-          "id": 37,
-          "number": "37",
-          "isReserved": false
-        },
-        {
-          "id": 38,
-          "number": "38",
-          "isReserved": false
-        },
-        {
-          "id": 39,
-          "number": "39",
-          "isReserved": false
-        },
-        {
-          "id": 40,
-          "number": "40",
-          "isReserved": false
-        },
-        {
-          "id": 41,
-          "number": "41",
-          "isReserved": false
-        },
-        {
-          "id": 42,
-          "number": "42",
-          "isReserved": false
-        },
-        {
-          "id": 43,
-          "number": "43",
-          "isReserved": false
-        },
-        {
-          "id": 44,
-          "number": "44",
-          "isReserved": false
-        },
-        {
-          "id": 45,
-          "number": "45",
-          "isReserved": false
-        },
-        {
-          "id": 46,
-          "number": "46",
-          "isReserved": false
-        },
-        {
-          "id": 47,
-          "number": "47",
-          "isReserved": false
-        },
-        {
-          "id": 48,
-          "number": "48",
-          "isReserved": false
-        },
-        {
-          "id": 49,
-          "number": "49",
-          "isReserved": false
-        }
-
       ]
     }
   ]
